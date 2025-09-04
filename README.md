@@ -7,7 +7,7 @@ It includes two main modes:
 
 ---
 
-## Features
+## 🚀 Features
 - User registration & login (Firebase Auth)
 - Category & product management (Admin)
 - Shopping cart with Redux store
@@ -16,7 +16,7 @@ It includes two main modes:
 
 ---
 
-## Technologies
+## 🛠️ Technologies
 - React, Redux
 - Vite
 - Firebase (Firestore, Auth)
@@ -25,7 +25,7 @@ It includes two main modes:
 
 ---
 
-## Installation & Running locally
+## ⚙️ Installation & Running locally
 ```bash
 git clone https://github.com/shuli-h/React-final-project.git
 cd React-final-project
