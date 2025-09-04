@@ -32,8 +32,9 @@ cd React-final-project
 npm install
 npm run dev
 
-Build for production
-npm run build
+## 📦 Build for production
+```bash
+npm run buil
 
 Project Structure
 src/
@@ -45,6 +46,7 @@ src/
   App.jsx
   main.jsx
 public/
+
 
 Author
 Shuli Hatuka
