@@ -35,6 +35,7 @@ npm run dev
 ## 📦 Build for production
 ```bash
 npm run buil
+```
 
 Project Structure
 src/
