@@ -36,9 +36,11 @@ npm run dev
 ## 📦 Build for production
 ```bash
 npm run buil
+```
 
 
-Project Structure
+## Project Structure
+```bash
 src/
   components/
   pages/
@@ -48,9 +50,11 @@ src/
   App.jsx
   main.jsx
 public/
+```
 
-
-Author
+## Author
+```bash
 Shuli Hatuka
 Full-Stack Developer Student
+```
 
