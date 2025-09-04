@@ -32,10 +32,10 @@ cd React-final-project
 npm install
 npm run dev
 
-## Build for production
+Build for production
 npm run build
 
-## Project Structure
+Project Structure
 src/
   components/
   pages/
@@ -46,7 +46,7 @@ src/
   main.jsx
 public/
 
-## Author
+Author
 Shuli Hatuka
 Full-Stack Developer Student
 
