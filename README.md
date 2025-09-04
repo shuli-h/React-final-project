@@ -39,7 +39,7 @@ npm run build
 ```
 
 
-## Project Structure
+## 📁 Project Structure
 ```bash
 src/
   components/
@@ -52,7 +52,7 @@ src/
 public/
 ```
 
-# Author
+# 👩‍💻 Author
 
 Shuli Hatuka
 Full-Stack Developer Student
