@@ -52,8 +52,8 @@ src/
 public/
 ```
 
-## Author
-```bash
+# Author
+
 Shuli Hatuka
 Full-Stack Developer Student
 ```
