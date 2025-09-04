@@ -35,7 +35,7 @@ npm run dev
 
 ## 📦 Build for production
 ```bash
-npm run buil
+npm run build
 ```
 
 
