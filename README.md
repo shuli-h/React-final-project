@@ -1,8 +1,33 @@
-# React + Vite
+# React Final Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an **e-Commerce Web Application** built with **React, Redux, Vite, and Firebase**.  
+It includes two main modes:
+- **Administration panel** – for managing products, categories, and users.
+- **Customer interface** – for browsing products, managing a cart, and placing orders.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- User registration & login (Firebase Auth)
+- Category & product management (Admin)
+- Shopping cart with Redux store
+- Orders & statistics pages
+- Built with Vite for fast development
+
+---
+
+## Technologies
+- React, Redux
+- Vite
+- Firebase (Firestore, Auth)
+- Material UI (if used)
+- Recharts (for statistics)
+
+---
+
+## Installation & Running locally
+```bash
+git clone https://github.com/shuli-h/React-final-project.git
+cd React-final-project
+npm install
+npm run dev
