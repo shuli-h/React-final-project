@@ -31,3 +31,22 @@ git clone https://github.com/shuli-h/React-final-project.git
 cd React-final-project
 npm install
 npm run dev
+
+## Build for production
+npm run build
+
+## Project Structure
+src/
+  components/
+  pages/
+  redux/
+    slices/
+    store.js
+  App.jsx
+  main.jsx
+public/
+
+## Author
+Shuli Hatuka
+Full-Stack Developer Student
+
