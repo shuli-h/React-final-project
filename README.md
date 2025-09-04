@@ -31,11 +31,12 @@ git clone https://github.com/shuli-h/React-final-project.git
 cd React-final-project
 npm install
 npm run dev
+```
 
 ## 📦 Build for production
 ```bash
 npm run buil
-```
+
 
 Project Structure
 src/
